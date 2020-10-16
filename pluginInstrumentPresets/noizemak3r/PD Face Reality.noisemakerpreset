@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="248" version="1.6999999999999999556">
+  <programs>
+    <program programname="PD Padwobbler FN" volume="0.43200001120567321777"
+             filtertype="0" cutoff="0.33600002527236938477" resonance="0"
+             osc1volume="0.52799999713897705078" osc2volume="0.67200005054473876953"
+             osc3volume="0.012000000104308128357" osc1waveform="0.5" osc2waveform="0.75"
+             oscsync="0" oscmastertune="0.5" osc1tune="0.51800000667572021484"
+             osc2tune="0.76000005006790161133" osc1finetune="0.34800001978874206543"
+             osc2finetune="0.66400003433227539062" portamento="0" keyfollow="0"
+             filtercontour="0.83600002527236938477" filterattack="0.61600005626678466797"
+             filterdecay="0.36400002241134643555" filtersustain="0" filterrelease="0.46000000834465026855"
+             ampattack="0.64400005340576171875" ampdecay="1" ampsustain="0.5960000157356262207"
+             amprelease="0.57600003480911254883" voices="1" portamentomode="0"
+             lfo1waveform="0.44400003552436828613" lfo2waveform="0" lfo1rate="0.52400004863739013672"
+             lfo2rate="0.46000000834465026855" lfo1amount="0.52799999713897705078"
+             lfo2amount="0.78800004720687866211" lfo1destination="0.85714286565780639648"
+             lfo2destination="0.14285714924335479736" lfo1phase="0.44000002741813659668"
+             lfo2phase="0" osc1pw="0" osc2fm="0.35600000619888305664" osc1phase="0.5"
+             osc2phase="0" transpose="0.22000001370906829834" freeadattack="0"
+             freeaddecay="0.75200003385543823242" freeadamount="0.66400003433227539062"
+             freeaddestination="0.80000001192092895508" lfo1sync="0" lfo1keytrigger="0"
+             lfo2sync="0" lfo2keytrigger="1" velocityvolume="0" velocitycontour="0"
+             velocitycutoff="0" pitchwheelcutoff="0.23600001633167266846"
+             pitchwheelpitch="0" highpass="0" detune="0" vintagenoise="0"
+             ringmodulation="0" chorus1enable="1" chorus2enable="1" reverbwet="0.54800003767013549805"
+             reverbdecay="0.40800002217292785645" reverbpredelay="0.34400001168251037598"
+             reverbhighcut="0.52000004053115844727" reverblowcut="1" oscbitcrusher="1"
+             filterdrive="0" delaywet="0" delaytime="0.5" delaysync="0" delayfactorl="0"
+             delayfactorr="0" delayhighshelf="0" delaylowshelf="0" delayfeedback="0.5"
+             envelopeeditordest1="0" envelopeeditorspeed="0" envelopeeditoramount="0"
+             envelopeoneshot="0" envelopefixtempo="0" tab1open="1" tab2open="0"
+             tab3open="0" tab4open="1">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="0.5"
+                     controlPointLeftX="0" controlPointLeftY="0.5" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="0.5"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0.5"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0.5"
+                     controlPointRightX="1" controlPointRightY="0.5"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tal curprogram="92" version="1.6999999999999999556">
+  <programs>
+    <program programname="DR Kick Phat TAL" volume="0.42800003290176391602"
+             filtertype="0" cutoff="0.10400000214576721191" resonance="1"
+             osc1volume="0" osc2volume="0.032000001519918441772" osc3volume="0.17600001394748687744"
+             osc1waveform="1" osc2waveform="0.5" oscsync="0" oscmastertune="0.5"
+             osc1tune="0.23600001633167266846" osc2tune="0.90400004386901855469"
+             osc1finetune="0.46400001645088195801" osc2finetune="0.60400003194808959961"
+             portamento="0" keyfollow="0" filtercontour="0.6840000152587890625"
+             filterattack="0" filterdecay="0.24800001084804534912" filtersustain="0"
+             filterrelease="0.44800001382827758789" ampattack="0" ampdecay="0.39200001955032348633"
+             ampsustain="0" amprelease="0.4120000302791595459" voices="0"
+             portamentomode="0" lfo1waveform="0.30000001192092895508" lfo2waveform="0.10000000149011611938"
+             lfo1rate="0.63600003719329833984" lfo2rate="0.18000000715255737305"
+             lfo1amount="0.60800004005432128906" lfo2amount="0.75200003385543823242"
+             lfo1destination="0.28571429848670959473" lfo2destination="0"
+             lfo1phase="0.71600002050399780273" lfo2phase="0.28000000119209289551"
+             osc1pw="0.5" osc2fm="0" osc1phase="0.54000002145767211914" osc2phase="0"
+             transpose="0.36000001430511474609" freeadattack="0" freeaddecay="0.74000000953674316406"
+             freeadamount="0.50400000810623168945" freeaddestination="0" lfo1sync="0"
+             lfo1keytrigger="0" lfo2sync="0" lfo2keytrigger="0" velocityvolume="0"
+             velocitycontour="0" velocitycutoff="0" pitchwheelcutoff="0" pitchwheelpitch="0"
+             highpass="0" detune="0" vintagenoise="0" ringmodulation="0" chorus1enable="0"
+             chorus2enable="0" reverbwet="0.39200001955032348633" reverbdecay="0.24000000953674316406"
+             reverbpredelay="0" reverbhighcut="0.22400000691413879395" reverblowcut="0.68000000715255737305"
+             oscbitcrusher="1" filterdrive="0" delaywet="0" delaytime="0"
+             delaysync="0" delayfactorl="0" delayfactorr="0" delayhighshelf="0"
+             delaylowshelf="0" delayfeedback="0.5" envelopeeditordest1="0.14285714924335479736"
+             envelopeeditorspeed="1" envelopeeditoramount="0.34400001168251037598"
+             envelopeoneshot="1" envelopefixtempo="1" tab1open="1" tab2open="1"
+             tab3open="0" tab4open="0">
+      <splinePoints>
+        <splinePoint isStartPoint="1" isEndPoint="0" centerPointX="0" centerPointY="1"
+                     controlPointLeftX="0" controlPointLeftY="1" controlPointRightX="0.10000000149011611938"
+                     controlPointRightY="1"/>
+        <splinePoint isStartPoint="0" isEndPoint="0" centerPointX="0.018518518656492233276"
+                     centerPointY="0.15499997138977050781" controlPointLeftX="0.01296296343207359314"
+                     controlPointLeftY="0.15499997138977050781" controlPointRightX="0.11851850152015686035"
+                     controlPointRightY="0.15499997138977050781"/>
+        <splinePoint isStartPoint="0" isEndPoint="1" centerPointX="1" centerPointY="0"
+                     controlPointLeftX="0.89999997615814208984" controlPointLeftY="0"
+                     controlPointRightX="1" controlPointRightY="0"/>
+      </splinePoints>
+    </program>
+  </programs>
+</tal>
