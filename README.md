@@ -5,4 +5,4 @@ hardwarePrests: Contains images and spreadsheets for settings of hardware synthe
 
 pluginInstrumentPresets: Contains preset files for plugin instruments. Mainly software synths and other MIDI-controlled software instruments.
 
-pluginPresets: Contains preset files for most other plugins such as effects, analyzers, etc.
+pluginEffectPresets: Contains preset files for most other plugins such as effects, analyzers, etc.
